@@ -7,7 +7,9 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-From Taipei, Taiwan, CHI is an artist and former music producer, currently is the director of ZONESOUND CREATIVE studio. He holds a Master of Music Degree from Goldsmiths, University of London, and a B.A. in Economics from National Taiwan University. His practice stems from the fascination of boundaries and guidelines, usually implemented by designing methods to associate relevance from observing the diversities in the daily life. His recent research is about the agencies of networked entities and how human and non-human co-constituted each other on the Web.
+Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. 
+
+Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
 
 
 <br/>
