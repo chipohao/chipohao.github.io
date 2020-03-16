@@ -11,7 +11,6 @@ From Taipei, Taiwan, CHI is an artist and former music producer, currently is th
 
 來自台灣台北，曾為簽約樂團成員與唱片公司作者，現為「融聲創意」負責人。畢業於倫敦大學金匠學院音樂碩士與臺灣大學經濟學系。他的創作大多源自於對規則與邊界的探索，常經由觀察日常生活中的差異來設計方法。近期他的主要研究為被連結實體間的能動性(Agency)與述行性(Performativity)，以及人與非人如何在網路中共構彼此。
 
-
 <br/>
 <hr/>
 <br/>
