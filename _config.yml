@@ -1,6 +1,6 @@
-site: Index Jekyll Theme
+site: CHI PO-HAO 
 
-url: https://index.jekyllthemes.io
+url: https://chipohao.github.io
 baseurl: 
 
 collections:
@@ -9,7 +9,7 @@ collections:
     permalink: /:name
   posts:
     output: true
-    permalink: /blog/:slug
+    permalink: /post/:slug
   projects:
     output: true
     permalink: /project/:slug
